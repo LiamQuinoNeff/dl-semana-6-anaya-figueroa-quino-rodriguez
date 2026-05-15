@@ -1,0 +1,20 @@
+# Credenciales
+kaggle.json
+.env
+*.env
+
+# Datos
+data/raw/
+
+# Python
+__pycache__/
+*.pyc
+*.pth          # checkpoints de modelos
+*.h5
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Entornos
+venv/
+.conda/
