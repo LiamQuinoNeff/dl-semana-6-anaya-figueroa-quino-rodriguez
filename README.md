@@ -62,13 +62,13 @@ dl-semana6-anaya-figueroa-quino-rodriguez/
 
 | Model | Test Accuracy | Parameters | Avg. time/epoch |
 |---|---|---|---|
-| LeNet-5 | — | ~338K | — |
-| LeNet-5 + BN | — | ~339K | — |
-| VGG-11 Simple | — | ~3.1M | — |
-| VGG-11 Simple + BN | — | ~3.1M | — |
-| ResNet-18 Feature Ext. | — | ~2K trainable | — |
-| ResNet-18 Partial FT | — | ~5.2M trainable | — |
-| ResNet-18 Full FT | — | ~11.2M trainable | — |
+| LeNet-5 | 63.57% | ~338K | 13.7s |
+| LeNet-5 + BN | 69.16% | ~339K | 12.3s |
+| VGG-11 Simple | 89.06% | ~3.1M | 12.4s |
+| VGG-11 Simple + BN | 87.41% | ~3.1M | 13.2s |
+| ResNet-18 Feature Ext. | 60.47% | ~2K trainable | 16.9s |
+| ResNet-18 Partial FT | 80.30% | ~5.2M trainable | 16s |
+| ResNet-18 Full FT | 85.32% | ~11.2M trainable | 16.7s |
 
 ---
 
