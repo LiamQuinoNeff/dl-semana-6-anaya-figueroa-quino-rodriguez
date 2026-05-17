@@ -1,10 +1,13 @@
-# Credenciales
+# Credentials
 kaggle.json
 .env
 *.env
 
-# Datos
+# Data
 data/raw/
+
+# Model checkpoints
+results/checkpoints/
 
 # Python
 __pycache__/
@@ -15,6 +18,7 @@ __pycache__/
 # Jupyter
 .ipynb_checkpoints/
 
-# Entornos
+# Environments
 venv/
 .conda/
+
