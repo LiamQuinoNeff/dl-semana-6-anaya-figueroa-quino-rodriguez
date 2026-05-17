@@ -58,8 +58,6 @@ dl-semana6-anaya-figueroa-quino-rodriguez/
 
 ## Results Summary
 
-> Results will be filled in after running all experiments.
-
 | Model | Test Accuracy | Parameters | Avg. time/epoch |
 |---|---|---|---|
 | LeNet-5 | 63.57% | ~338K | 13.7s |
