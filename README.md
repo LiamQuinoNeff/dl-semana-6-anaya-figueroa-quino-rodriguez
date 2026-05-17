@@ -50,6 +50,7 @@ dl-semana6-anaya-figueroa-quino-rodriguez/
 ├── results/
 │   ├── figures/                  # All generated plots (saved automatically)
 │   └── checkpoints/              # Best model weights per experiment (.pt)
+├── requirements.txt
 └── informe.pdf
 ```
 
